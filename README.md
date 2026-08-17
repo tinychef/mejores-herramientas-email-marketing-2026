@@ -1,5 +1,7 @@
 # Email marketing en 2026: la guía que uso yo, no un ranking de comisiones
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Desde que Google y Yahoo endurecieron sus requisitos para remitentes masivos (SPF, DKIM, DMARC, límites de queja obligatorios), elegir mal tu ESP ya no es solo "perder plata en un plan caro" — es terminar directo en spam sin darte cuenta. Y sin embargo la mayoría de las comparativas de email marketing siguen mostrando las mismas cinco herramientas de siempre, ordenadas por cuál paga mejor comisión, como si newsletters, automatización y cold outreach fueran el mismo trabajo.
 
 No lo son. Son *tres trabajos distintos* que casi nunca resuelve la misma herramienta — mezclarlos es la razón número uno por la que la gente termina frustrada con su ESP y jurando que "el email marketing ya no funciona". Acá los separamos.
