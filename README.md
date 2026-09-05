@@ -6,6 +6,17 @@ Desde que Google y Yahoo endurecieron sus requisitos para remitentes masivos (SP
 
 No lo son. Son *tres trabajos distintos* que casi nunca resuelve la misma herramienta — mezclarlos es la razón número uno por la que la gente termina frustrada con su ESP y jurando que "el email marketing ya no funciona". Acá los separamos.
 
+## 🆕 Novedades
+
+### Instantly suma un Copilot que arma automatizaciones describiéndolas en texto simple
+![Instantly](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/instantly.png)
+
+Instantly Copilot (julio 2026) te deja escribir algo como "cuando un lead responda positivo, creá un contacto en HubSpot" y arma esa lógica por vos, desde la sección Engage → Automations. Se suma al AI Deliverability Agent, que monitorea la salud de tus dominios y bandejas para que tus emails no terminen en spam.
+
+**[Probar Instantly →](https://refer.instantly.ai/ndtfrl3h0x5l)**
+
+---
+
 ## Cómo armamos esta comparativa
 
 Nada de esto sale de un ranking genérico. Las 8 herramientas de abajo son, hoy, el stack completo de partnerships de email marketing activos de TonyCiencia — excluimos a propósito cualquier programa que esté pendiente de aprobación, vencido o que directamente nos haya rechazado. Si una herramienta no aparece acá no es porque la olvidamos: es porque no probamos su programa de afiliados, o porque no pasó el filtro. Preferimos una lista corta y honesta a una larga y genérica.
@@ -60,4 +71,4 @@ Tiene automatización básica, pero si tu necesidad principal es lógica complej
 
 Comparativa mantenida por [TonyCiencia](https://youtube.com/@tonyciencia). Los links de arriba son de afiliado — entrar por ellos no te cuesta nada extra y ayuda a sostener el canal. Solo aparecen herramientas con relación de partner activa.
 
-Última actualización: 2026-08.
+Última actualización: 2026-09-04.
